@@ -28,8 +28,6 @@
   <a href="https://github.com/LuminousVar"><img src="https://img.shields.io/github/followers/LuminousVar?label=Follow&style=social" alt="GitHub Followers"></a>
 </p>
 
-</div>
-
 
 
 
@@ -58,7 +56,7 @@
   </a>
 </div>
 
-  <img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="LuminousV's Avatar" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/116353512?v=4" align="left" width="50" height="50" alt="LuminousV's Avatar"/>
 
 
 <!-- Chatting Reference -->
