@@ -29,18 +29,14 @@
 </p>
 
 
-
+<br/>
+<br/>
+<br/>
 
 <!-- ####### Second Section #######-->
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 <!-- Typing SVG -->
-<p align="center">
-    <a href="https://github.com/LuminousVar">
-        <img src="" />
-    </a>
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C47F1&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
@@ -52,11 +48,11 @@
 <div align="center">
   <h3>😄 I Can Do</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C47F1&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps;Server+Management" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C47F1&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
   </a>
 </div>
 
-  <img src="https://avatars.githubusercontent.com/u/116353512?v=4" align="left" width="50" height="50" alt="LuminousV's Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/116353512?v=4" align="left" style="width: 50px; height: 50px;" alt="LuminousV's Avatar" />
 
 
 <!-- Chatting Reference -->
