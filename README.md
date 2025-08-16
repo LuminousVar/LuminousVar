@@ -132,14 +132,9 @@ graph TB
     Root(("Skills"))
 
     %% Main Structure
-    Root === Network["Networking"]
     Root === Languages["Programming"]
     Root === Security["Security"]
-
-    %% Network Section
-    Network --> Cisco
-    Network --> Mikrotik
-    Network --> Fortigate
+    Root === Network["Networking"]
 
     %% Languages Section
     Languages --> Core["Core"]
@@ -169,6 +164,11 @@ graph TB
     Environment --> Docker["Docker"]
     Environment --> Git["Git"]
     Environment --> VSCode["VS Code"]
+
+    %% Network Section
+    Network --> Cisco
+    Network --> Mikrotik
+    Network --> Fortigate
 
 
     class Root root
