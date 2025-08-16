@@ -35,12 +35,6 @@
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 <!-- Typing SVG -->
-<p align="center">
-    <a href="https://github.com/LuminousVar">
-        <img src="" />
-    </a>
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C47F1&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
@@ -85,3 +79,95 @@ my.say_hi()
 
 <br>
 <br>
+
+
+<!-- Quote -->
+<div align="right">
+
+  <a href="https://github.com/LuminousVar">
+          <img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="Avatar" style="border-radius: 50%;">
+        </a>
+
+  <table style="width: 420px; border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+    <tr>
+      <td valign="top" style="border: none;">
+        <strong>LuminousVar</strong>
+        <p style="margin-top: 5px; margin-bottom: 10px;">
+          <b>English: </b>
+          <i>"I'm not as skilled or GG as other people, but I am always level up every day."</i>
+        </p>
+        <p style="margin-top: 5px; margin-bottom: 10px;">
+          <b>Indonesia: </b>
+          <i>"Gw tidak sejago ataupun GG seperti orang orang, tapi gw selalu level up setiap harinya."</i>
+        </p>
+        <small style="color: #808080;">10:04 PM · 16 Agu 2025</small>
+      </td>
+    </tr>
+  </table>
+
+  
+</div>
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+ <!-- Knowledge & Skills -->
+<p align="left" style="display: flex; align-items: center;">
+  <a href="https://x.com/1hehaq"><img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/S25vd2xlZGdlIDwvPiBTa2lsbHM/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="250" alt="Knowledge & Skills"/>
+</p>
+
+```mermaid
+graph TB
+    classDef default fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:2px,font-size:14px
+    classDef category fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:3px,font-size:16px
+    classDef root fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:4px,font-size:18px
+
+    Root(("Skills"))
+
+    %% Main Structure
+    Root === Network["Networking"]
+    Root === Languages["Programming"]
+    Root === Security["Security"]
+
+    %% Network Section
+    Network --> Cisco
+    Network --> Mikrotik
+    Network --> Fortigate
+
+    %% Languages Section
+    Languages --> Core["Core"]
+    Languages --> Web["Web"]
+    
+    Core --> JavaScript[".js"]
+    Core --> TypeScript[".ts"]
+    Core --> Python[".py"]
+    Core --> Java[".java"]
+    Core --> Dart[".dart"]
+    Core --> Shell[".sh"]
+    
+    Web --> JavaScript[".js"]
+    Web --> TypeScript[.ts]
+    Web --> React[.jsx/tsx]
+    Web --> Svelte[.svelte]
+
+    %% Security Section
+    Security --> Testing["Testing"]
+    Security --> Environment["Environment"]
+    
+    Testing --> Burp["Burp Suite"]
+    Testing --> Post["Postman"]
+    Testing --> CLI["CLI based"]
+    
+    Environment --> Linux["Linux"]
+    Environment --> Docker["Docker"]
+    Environment --> Git["Git"]
+    Environment --> VSCode["VS Code"]
+
+
+    class Root root
+    class Network,Languages,Security,Core,Web,Testing,Environment category
