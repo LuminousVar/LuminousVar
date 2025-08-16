@@ -39,7 +39,7 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C47F1&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
   </a>
 </div>
 
@@ -48,9 +48,12 @@
 <div align="center">
   <h3>😄 I Can Do</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C47F1&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
+<br/>
 
   <img src="https://avatars.githubusercontent.com/u/116353512?v=4" align="left" style="width: 50px; height: 50px;" alt="LuminousV's Avatar" />
 
@@ -119,7 +122,7 @@ my.say_hi()
 
  <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://x.com/1hehaq"><img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a><img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/S25vd2xlZGdlIDwvPiBTa2lsbHM/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="250" alt="Knowledge & Skills"/>
 </p>
 
@@ -173,3 +176,28 @@ graph TB
 
     class Root root
     class Network,Languages,Security,Core,Web,Testing,Environment category
+```
+
+<br/>
+<br/>
+<br/>
+
+
+<!-- ####### Third Section #######-->
+<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/R2l0aHViIFN0YXRz/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="200" alt="GitHub Stats title">
+</h2>
+
+
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
+    <img src="https://streak-stats.demolab.com?user=LuminousVar&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
+  </div>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+</div>
+
+</div>
