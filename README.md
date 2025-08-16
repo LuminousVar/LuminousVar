@@ -81,7 +81,6 @@ my.say_hi()
 
 <br>
 <br>
-<<<<<<< HEAD
 
 
 <!-- Quote -->
