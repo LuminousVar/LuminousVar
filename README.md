@@ -173,5 +173,3 @@ graph TB
 
     class Root root
     class Network,Languages,Security,Core,Web,Testing,Environment category
-=======
->>>>>>> 1399a6a2e6b73f72dd49c0c80d650c7a441d8c5d
