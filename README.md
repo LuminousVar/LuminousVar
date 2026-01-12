@@ -191,9 +191,9 @@ if __name__ == '__main__':
 <div align="center">
   <!-- Top Languages & GitHub Streak side by side -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=1a1b26&text_color=1a1b26&bg_color=f5f5f5&border_color=c0caf5&hide_border=true&locale=en&custom_title=Top%20Languages" />
-    <img src="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" alt="Top Languages" height="175" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=1a1b26&text_color=1a1b26&bg_color=f5f5f5&border_color=c0caf5&hide_border=true&locale=en&custom_title=Top%20Languages" />
+    <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" alt="Top Languages" height="175" />
   </picture>
 
   <picture>
@@ -202,13 +202,11 @@ if __name__ == '__main__':
     <img src="https://streak-stats.demolab.com?user=LuminousVar&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5&stroke=414868&hide_border=true" alt="GitHub Streak" height="175" />
   </picture>
 
-  <br/><br/>
-
   <!-- GitHub Stats Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api?username=LuminousVar&show_icons=true&title_color=1a1b26&text_color=1a1b26&icon_color=7aa2f7&bg_color=f5f5f5&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="175" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=1a1b26&text_color=1a1b26&icon_color=7aa2f7&bg_color=f5f5f5&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="175" />
   </picture>
 
 </div>
