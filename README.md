@@ -39,7 +39,11 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6B5B3D&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
+    </picture>
   </a>
 </div>
 
@@ -48,7 +52,11 @@
 <div align="center">
   <h3>😄 I Can Do</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=E7CFAA&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=6B5B3D&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=E7CFAA&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
+    </picture>
   </a>
 </div>
 
@@ -64,11 +72,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Bio:
-
     def __init__(self):
-        self.real_name = "Farel"
+        self.real_name = "Reyhan Al Farel"
         self.username = "LuminousV"
         self.role = "IT Network, Developer, Cyber Security, DevOps"
         self.language_spoken = ["id", "en"]
@@ -78,8 +84,9 @@ class Bio:
         print("よろしくお願いします | Yoroshiku onegai shimasu")
 
 
-my = Bio()
-my.say_hi()
+if __name__ == '__main__':
+    me = Bio()
+    me.say_hi()
 ```
 
 <br>
@@ -191,13 +198,25 @@ graph TB
 </h2>
 
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; border-radius: 10px;">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
-    <img src="https://streak-stats.demolab.com?user=LuminousVar&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=6B5B3D&text_color=6B5B3D&bg_color=FFFFFF&border_color=E7CFAA&hide_border=true&locale=en&custom_title=Top%20Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=FFFFFF&ring=6B5B3D&fire=D4A574&currStreakNum=6B5B3D&sideNums=6B5B3D&currStreakLabel=6B5B3D&sideLabels=6B5B3D&dates=6B5B3D&stroke=E7CFAA&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=LuminousVar&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
+    </picture>
   </div>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=FFFFFF&color=6B5B3D&line=D4A574&point=6B5B3D&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+  </picture>
 </div>
 
 </div>
