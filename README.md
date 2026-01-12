@@ -5,15 +5,21 @@
 <div align="center">
 
   <!-- Gif Image -->
-  <img src="https://media1.tenor.com/m/h5Lzr5BnGGAAAAAd/anime-luminous.gif" alt="Luminous Valentine" width="400"/>
-
-  <div class="tenor-gif-embed" data-postid="9769138477087529056" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-luminous-luminus-luminas-valentine-gif-9769138477087529056"></div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" />
+    <img src="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" alt="Luminous Valentine" width="400" style="border-radius: 15px;"/>
+  </picture>
 
   <br>
 
   <!-- Name Banner -->
   <a href="https://github.com/LuminousVar">
-    <img src="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" alt="Banner Nama LuminousV" width="400">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=7aa2f7&bg=1a1b26&tb=1&s=65" />
+      <source media="(prefers-color-scheme: light)" srcset="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=1a1b26&bg=f5f5f5&tb=1&s=65" />
+      <img src="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=7aa2f7&bg=1a1b26&tb=1&s=65" alt="Banner Nama LuminousV" width="400">
+    </picture>
   </a>
 
 </div>
@@ -40,9 +46,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6B5B3D&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=7aa2f7&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=1a1b26&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=7aa2f7&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
     </picture>
   </a>
 </div>
@@ -53,9 +59,9 @@
   <h3>😄 I Can Do</h3>
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=E7CFAA&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=6B5B3D&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=E7CFAA&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=7aa2f7&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=1a1b26&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=7aa2f7&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
     </picture>
   </a>
 </div>
@@ -128,62 +134,43 @@ if __name__ == '__main__':
 
 
  <!-- Knowledge & Skills -->
-<p align="left" style="display: flex; align-items: center;">
+<h2 align="left" style="display: flex; align-items: center;">
   <a><img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/S25vd2xlZGdlIDwvPiBTa2lsbHM/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="250" alt="Knowledge & Skills"/>
-</p>
+</h2>
 
-```mermaid
-graph TB
-    classDef default fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:2px,font-size:14px
-    classDef category fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:3px,font-size:16px
-    classDef root fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:4px,font-size:18px
+<div align="center">
 
-    Root(("Skills"))
+####  Programming
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-    %% Main Structure
-    Root === Languages["Programming"]
-    Root === Security["Security"]
-    Root === Network["Networking"]
+####  Security & DevOps
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge&logo=mitre&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-    %% Languages Section
-    Languages --> Core["Core"]
-    Languages --> Web["Web"]
-    
-    Core --> JavaScript[".js"]
-    Core --> TypeScript[".ts"]
-    Core --> Python[".py"]
-    Core --> Java[".java"]
-    Core --> Dart[".dart"]
-    Core --> Shell[".sh"]
-    
-    Web --> JavaScript[".js"]
-    Web --> TypeScript[.ts]
-    Web --> React[.jsx/tsx]
-    Web --> Svelte[.svelte]
+####  Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Ruijie](https://img.shields.io/badge/Ruijie-E60012?style=for-the-badge&logoColor=white)
 
-    %% Security Section
-    Security --> Testing["Testing"]
-    Security --> Environment["Environment"]
-    
-    Testing --> Burp["Burp Suite"]
-    Testing --> Post["Postman"]
-    Testing --> CLI["CLI based"]
-    
-    Environment --> Linux["Linux"]
-    Environment --> Docker["Docker"]
-    Environment --> Git["Git"]
-    Environment --> VSCode["VS Code"]
-
-    %% Network Section
-    Network --> Cisco
-    Network --> Mikrotik
-    Network --> Fortigate
-
-
-    class Root root
-    class Network,Languages,Security,Core,Web,Testing,Environment category
-```
+</div>
 
 <br/>
 <br/>
@@ -197,26 +184,32 @@ graph TB
   <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/R2l0aHViIFN0YXRz/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="200" alt="GitHub Stats title">
 </h2>
 
+<!-- WakaTime Stats -->
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; border-radius: 10px;">
-  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=6B5B3D&text_color=6B5B3D&bg_color=FFFFFF&border_color=E7CFAA&hide_border=true&locale=en&custom_title=Top%20Languages" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=FFFFFF&ring=6B5B3D&fire=D4A574&currStreakNum=6B5B3D&sideNums=6B5B3D&currStreakLabel=6B5B3D&sideLabels=6B5B3D&dates=6B5B3D&stroke=E7CFAA&hide_border=true" />
-      <img src="https://streak-stats.demolab.com?user=LuminousVar&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
-    </picture>
-  </div>
-  
+<br/>
+
+<div align="center">
+  <!-- Top Languages & GitHub Streak side by side -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=FFFFFF&color=6B5B3D&line=D4A574&point=6B5B3D&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=1a1b26&text_color=1a1b26&bg_color=f5f5f5&border_color=c0caf5&hide_border=true&locale=en&custom_title=Top%20Languages" />
+    <img src="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" alt="Top Languages" height="175" />
   </picture>
-</div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5&stroke=414868&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=f5f5f5&ring=1a1b26&fire=bb9af7&currStreakNum=1a1b26&sideNums=1a1b26&currStreakLabel=1a1b26&sideLabels=1a1b26&dates=1a1b26&stroke=c0caf5&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=LuminousVar&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5&stroke=414868&hide_border=true" alt="GitHub Streak" height="175" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api?username=LuminousVar&show_icons=true&title_color=1a1b26&text_color=1a1b26&icon_color=7aa2f7&bg_color=f5f5f5&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="github-readme-stats-38n7j3j37-lumis-projects-bf7aeef7.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="175" />
+  </picture>
 
 </div>
+
