@@ -189,17 +189,11 @@ if __name__ == '__main__':
 <br/>
 
 <div align="center">
-  <!-- Top Languages & GitHub Streak side by side -->
+  <!-- Top Languages & GitHub Stats side by side -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=1a1b26&text_color=1a1b26&bg_color=f5f5f5&border_color=c0caf5&hide_border=true&locale=en&custom_title=Top%20Languages" />
     <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" alt="Top Languages" height="175" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5&stroke=414868&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LuminousVar&background=f5f5f5&ring=1a1b26&fire=bb9af7&currStreakNum=1a1b26&sideNums=1a1b26&currStreakLabel=1a1b26&sideLabels=1a1b26&dates=1a1b26&stroke=c0caf5&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=LuminousVar&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5&stroke=414868&hide_border=true" alt="GitHub Streak" height="175" />
   </picture>
 
   <!-- GitHub Stats Card -->
@@ -208,6 +202,42 @@ if __name__ == '__main__':
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=1a1b26&text_color=1a1b26&icon_color=7aa2f7&bg_color=f5f5f5&hide_border=true&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="175" />
   </picture>
+
+</div>
+
+<br/>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=minimal&hide_border=true&bg_color=f5f5f5&color=1a1b26&line=7aa2f7&point=7aa2f7&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" alt="Contribution Graph" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Top Repositories -->
+<div align="center">
+  <h3>
+    <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/VG9wIFJlcG9zaXRvcmllcw/crotah-free-version-italic.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=353D4B&tb=1&s=50" width="200" alt="Top Repositories"/>
+  </h3>
+  
+  <div align="center">
+    <!-- Repo Cards - Replace repo names with your actual repositories -->
+    <a href="https://github.com/LuminousVar/LuminousVar">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/pin/?username=LuminousVar&repo=LuminousVar&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/pin/?username=LuminousVar&repo=LuminousVar&theme=default&hide_border=true&bg_color=f5f5f5&title_color=1a1b26&icon_color=7aa2f7&text_color=1a1b26" />
+        <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api/pin/?username=LuminousVar&repo=LuminousVar&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Repository Card" />
+      </picture>
+    </a>
+  </div>
+</div>
+
+<br/>
+
 
 </div>
 
