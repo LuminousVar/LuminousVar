@@ -173,6 +173,7 @@ if __name__ == '__main__':
 
 <br/>
 
+<!-- Section A: Language + Stats -->
 <div align="center">
   <!-- Top Languages & GitHub Stats side by side -->
   <picture>
@@ -191,9 +192,11 @@ if __name__ == '__main__':
 </div>
 
 <br/>
+<hr style="border: none; border-top: 1px solid #3a3a3a; margin: 12px 0 18px 0;"/>
 
-<!-- Contribution Graph -->
+<!-- Section B: Activity -->
 <div align="center">
+  <!-- Contribution Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=minimal&hide_border=true&bg_color=f5f5f5&color=1a1b26&line=7aa2f7&point=7aa2f7&area=true" />
@@ -203,8 +206,8 @@ if __name__ == '__main__':
 
 <br/>
 
-<!-- Snake Contribution Animation -->
 <div align="center">
+  <!-- Snake Contribution Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuminousVar/LuminousVar/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuminousVar/LuminousVar/output/github-contribution-grid-snake.svg" />
@@ -213,8 +216,9 @@ if __name__ == '__main__':
 </div>
 
 <br/>
+<hr style="border: none; border-top: 1px solid #3a3a3a; margin: 12px 0 18px 0;"/>
 
-<!-- Top Repositories -->
+<!-- Section C: Featured Repo -->
 <div align="center">
   <h3>
     <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/VG9wIFJlcG9zaXRvcmllcw/crotah-free-version-italic.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=353D4B&tb=1&s=50" width="200" alt="Top Repositories"/>
@@ -233,17 +237,17 @@ if __name__ == '__main__':
 </div>
 
 <br/>
+<hr style="border: none; border-top: 1px solid #3a3a3a; margin: 12px 0 18px 0;"/>
 
-<!-- Profile Summary Card -->
+<!-- Section D: Extras -->
 <div align="center">
   <img src="https://gh-readme-profile.vercel.app/api?username=LuminousVar&theme=transparent&locale=en&border_radius=15.4" alt="Profile summary" />
 </div>
 
 <br/>
 
-<!-- Spotify Recently Played -->
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Y31jwqvbmnkmtczcacusinsrml5fm" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwqvbmnkmtczcacusinsrml5fm&count=5" alt="Spotify recently played" />
 </div>
 
 </div>
