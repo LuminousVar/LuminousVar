@@ -11,7 +11,7 @@
     <img src="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" alt="Luminous Valentine" width="400" style="border-radius: 15px;"/>
   </picture>
 
-  <br>
+  <br/>
 
   <!-- Name Banner -->
   <a href="https://github.com/LuminousVar">
@@ -26,18 +26,14 @@
 
 <br/>
 
-<!-- Follow Buttons -->
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=LuminousVar&color=E7CFAA">
-    <img src="https://komarev.com/ghpvc/?username=LuminousVar&color=4C47F1" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/LuminousVar"><img src="https://img.shields.io/github/followers/LuminousVar?label=Follow&style=social" alt="GitHub Followers"></a>
-</p>
+<!-- # Tambahkan informasi bahwa ini adalah github profile views -->
+<div align="center">
 
+[![](https://count.getloli.com/get/@:LuminousVar?theme=boiboi)](https://github.com/LuminousVar)
 
-<br/>
-<br/>
-<br/>
+</div>
+
+</div>
 
 <!-- ####### Second Section #######-->
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
@@ -71,7 +67,6 @@
 
   <img src="https://avatars.githubusercontent.com/u/116353512?v=4" align="left" style="width: 50px; height: 50px;" alt="LuminousV's Avatar" />
 
-
 <!-- Chatting Reference -->
 
 ```python
@@ -82,7 +77,7 @@ class Bio:
     def __init__(self):
         self.real_name = "Reyhan Al Farel"
         self.username = "LuminousV"
-        self.role = "IT Network, Developer, Cyber Security, DevOps"
+        self.role = "Defensive Security a.k.a Blue Team Security Engineer"
         self.language_spoken = ["id", "en"]
 
     def say_hi(self):
@@ -95,9 +90,8 @@ if __name__ == '__main__':
     me.say_hi()
 ```
 
-<br>
-<br>
-
+<br/>
+<br/>
 
 <!-- Quote -->
 <div align="right">
@@ -111,27 +105,18 @@ if __name__ == '__main__':
       <td valign="top" style="border: none;">
         <strong>LuminousVar</strong>
         <p style="margin-top: 5px; margin-bottom: 10px;">
-          <b>English: </b>
           <i>"I'm not as skilled or GG as other people, but I am always level up every day."</i>
-        </p>
-        <p style="margin-top: 5px; margin-bottom: 10px;">
-          <b>Indonesia: </b>
-          <i>"Gw tidak sejago ataupun GG seperti orang orang, tapi gw selalu level up setiap harinya."</i>
         </p>
         <small style="color: #808080;">10:04 PM · 16 Agu 2025</small>
       </td>
     </tr>
   </table>
 
-  
 </div>
 
 <br/>
 <br/>
 <br/>
-
-
-
 
  <!-- Knowledge & Skills -->
 <h2 align="left" style="display: flex; align-items: center;">
@@ -141,7 +126,8 @@ if __name__ == '__main__':
 
 <div align="center">
 
-####  Programming
+#### Programming
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -151,7 +137,8 @@ if __name__ == '__main__':
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-####  Security & DevOps
+#### Security & DevOps
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -164,7 +151,8 @@ if __name__ == '__main__':
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-####  Networking
+#### Networking
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
@@ -176,15 +164,12 @@ if __name__ == '__main__':
 <br/>
 <br/>
 
-
 <!-- ####### Third Section #######-->
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 <h2 align="center">
   <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/R2l0aHViIFN0YXRz/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="200" alt="GitHub Stats title">
 </h2>
-
-<!-- WakaTime Stats -->
 
 <br/>
 
@@ -218,6 +203,17 @@ if __name__ == '__main__':
 
 <br/>
 
+<!-- Snake Contribution Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuminousVar/LuminousVar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuminousVar/LuminousVar/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/LuminousVar/LuminousVar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
+</div>
+
+<br/>
+
 <!-- Top Repositories -->
 <div align="center">
   <h3>
@@ -238,6 +234,16 @@ if __name__ == '__main__':
 
 <br/>
 
-
+<!-- Profile Summary Card -->
+<div align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=LuminousVar&theme=transparent&locale=en&border_radius=15.4" alt="Profile summary" />
 </div>
 
+<br/>
+
+<!-- Spotify Recently Played -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Y31jwqvbmnkmtczcacusinsrml5fm" alt="Spotify recently played" />
+</div>
+
+</div>
