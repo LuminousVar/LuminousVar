@@ -29,6 +29,11 @@
 <!-- # Tambahkan informasi bahwa ini adalah github profile views -->
 <div align="center">
 
+**GitHub Profile Views**
+
+[![GitHub followers](https://img.shields.io/github/followers/LuminousVar?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github)](https://github.com/LuminousVar?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=LuminousVar&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/LuminousVar)
+
 [![](https://count.getloli.com/get/@:LuminousVar?theme=boiboi)](https://github.com/LuminousVar)
 
 </div>
@@ -37,30 +42,6 @@
 
 <!-- ####### Second Section #######-->
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=7aa2f7&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=1a1b26&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=7aa2f7&center=true&width=435&lines=Hello%2C+my+name+is+LuminousV" alt="Typing SVG" />
-    </picture>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>😄 I Can Do</h3>
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=7aa2f7&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=1a1b26&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=7aa2f7&center=true&width=435&lines=Network;Coding;Cyber+Security;DevOps" alt="Typing SVG" />
-    </picture>
-  </a>
-</div>
 
 <br/>
 <br/>
@@ -75,9 +56,8 @@
 
 class Bio:
     def __init__(self):
-        self.real_name = "Reyhan Al Farel"
         self.username = "LuminousV"
-        self.role = "Defensive Security a.k.a Blue Team Security Engineer"
+        self.role = "404 Threat Not Found"
         self.language_spoken = ["id", "en"]
 
     def say_hi(self):
@@ -116,95 +96,6 @@ if __name__ == '__main__':
 
 <br/>
 <br/>
-<br/>
-
- <!-- Knowledge & Skills -->
-<h2 align="left" style="display: flex; align-items: center;">
-  <a><img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
-  <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/S25vd2xlZGdlIDwvPiBTa2lsbHM/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="250" alt="Knowledge & Skills"/>
-</h2>
-
-<div align="center">
-
-#### Programming
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### Security & DevOps
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge&logo=mitre&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Ruijie](https://img.shields.io/badge/Ruijie-E60012?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
-<br/>
-<br/>
-
-<!-- ####### Third Section #######-->
-<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-
-<h2 align="center">
-  <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/R2l0aHViIFN0YXRz/crotah-free-version-italic.png?r=fs&h=87&w=1333&fg=FFFFFF&bg=353D4B&tb=1&s=65" width="200" alt="GitHub Stats title">
-</h2>
-
-<br/>
-
-<!-- Section A: Language + Stats -->
-<div align="center">
-  <!-- Top Languages & GitHub Stats side by side -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=1a1b26&text_color=1a1b26&bg_color=f5f5f5&border_color=c0caf5&hide_border=true&locale=en&custom_title=Top%20Languages" />
-    <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api/top-langs/?username=LuminousVar&langs_count=6&layout=compact&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&hide_border=true&locale=en&custom_title=Top%20Languages&theme=tokyonight" alt="Top Languages" height="175" />
-  </picture>
-
-  <!-- GitHub Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=1a1b26&text_color=1a1b26&icon_color=7aa2f7&bg_color=f5f5f5&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api?username=LuminousVar&show_icons=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="175" />
-  </picture>
-
-</div>
-
-<br/>
-<hr style="border: none; border-top: 1px solid #3a3a3a; margin: 12px 0 18px 0;"/>
-
-<!-- Section B: Activity -->
-<div align="center">
-  <!-- Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=minimal&hide_border=true&bg_color=f5f5f5&color=1a1b26&line=7aa2f7&point=7aa2f7&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminousVar&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" alt="Contribution Graph" />
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <!-- Snake Contribution Animation -->
@@ -223,21 +114,7 @@ if __name__ == '__main__':
   <h3>
     <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/VG9wIFJlcG9zaXRvcmllcw/crotah-free-version-italic.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=353D4B&tb=1&s=50" width="200" alt="Top Repositories"/>
   </h3>
-  
-  <div align="center">
-    <!-- Repo Cards - Replace repo names with your actual repositories -->
-    <a href="https://github.com/LuminousVar/LuminousVar">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/pin/?username=LuminousVar&repo=LuminousVar&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-fawn-12.vercel.app/api/pin/?username=LuminousVar&repo=LuminousVar&theme=default&hide_border=true&bg_color=f5f5f5&title_color=1a1b26&icon_color=7aa2f7&text_color=1a1b26" />
-        <img src="https://github-readme-stats-tau-fawn-12.vercel.app/api/pin/?username=LuminousVar&repo=LuminousVar&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Repository Card" />
-      </picture>
-    </a>
-  </div>
 </div>
-
-<br/>
-<hr style="border: none; border-top: 1px solid #3a3a3a; margin: 12px 0 18px 0;"/>
 
 <!-- Section D: Extras -->
 <div align="center">
@@ -245,9 +122,5 @@ if __name__ == '__main__':
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwqvbmnkmtczcacusinsrml5fm&count=5" alt="Spotify recently played" />
-</div>
 
 </div>
