@@ -1,0 +1,24 @@
+name: Autorun
+
+on:
+  schedule:
+    - cron: "0 1,5,9,13,17,21 * * *" # Every 4 hours WIB (UTC+7)
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  autorun:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Dispatch autobot workflow
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WORKFLOW_FILE: "autobot.yaml"
+        run: bash scripts/autorun.sh
