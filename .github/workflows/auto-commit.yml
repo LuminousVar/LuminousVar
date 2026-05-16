@@ -1,0 +1,39 @@
+name: Auto  Three Times Daily
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 08:00 WIB (UTC+7)
+    - cron: "0 5 * * *" # 12:00 WIB (UTC+7)
+    - cron: "0 13 * * *" # 20:00 WIB (UTC+7)
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Make a change ( timestamp)
+        run: |
+          # This overwrites last_.txt with the current time
+          # Replace this with another script if you want to  README.md instead
+          echo "Last updated at: $(date)" > last_update.txt
+
+      - name: Commit and push changes
+        run: |
+          # Configure git identity using the default GitHub Actions bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage the updated file
+          git add last_update.txt
+
+          # If there are changes, commit and push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update: $(date)" && git push)

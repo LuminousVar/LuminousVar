@@ -5,6 +5,9 @@ on:
     - cron: "0 1,5,9,13,17,21 * * *" # Every 4 hours WIB (UTC+7)
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   actions: write
   contents: read
