@@ -1,27 +1,5 @@
-<!-- ####### First Section #######-->
-
-<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-
 <div align="center">
-
-  <!-- Gif Image -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" />
-    <img src="https://media1.tenor.com/m/SZWTQrvoDMEAAAAC/anime-luminous.gif" alt="Luminous Valentine" width="400" style="border-radius: 15px;"/>
-  </picture>
-
-  <br/>
-
-  <!-- Name Banner -->
-  <a href="https://github.com/LuminousVar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=7aa2f7&bg=1a1b26&tb=1&s=65" />
-      <source media="(prefers-color-scheme: light)" srcset="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=1a1b26&bg=f5f5f5&tb=1&s=65" />
-      <img src="https://see.fontimg.com/api/rf5/dr2lZ/NzU2OTRhODgxMWYwNGRlZGI5NTFmYmQ1N2M0MTVjOTcudHRm/THVtaW5vdXNW/moomello-free-regular.png?r=fs&h=87&w=1333&fg=7aa2f7&bg=1a1b26&tb=1&s=65" alt="Banner Nama LuminousV" width="400">
-    </picture>
-  </a>
-
+  <img src="banner.svg" alt="LuminousVar Banner" width="100%" />
 </div>
 
 <br/>
@@ -38,60 +16,24 @@
 
 </div>
 
-</div>
-
 <!-- ####### Second Section #######-->
-<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 <br/>
-<br/>
-
-  <img src="https://avatars.githubusercontent.com/u/116353512?v=4" align="left" style="width: 50px; height: 50px;" alt="LuminousV's Avatar" />
 
 <!-- Chatting Reference -->
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Bio:
-    def __init__(self):
-        self.username = "LuminousV"
-        self.role = "404 Threat Not Found"
-        self.language_spoken = ["id", "en"]
-
-    def say_hi(self):
-        print(f"Hi! Thanks to visit {self.username} Github")
-        print("よろしくお願いします | Yoroshiku onegai shimasu")
-
-
-if __name__ == '__main__':
-    me = Bio()
-    me.say_hi()
-```
+<div align="center">
+  <img src="bio.svg" alt="class Bio: username LuminousVar, role 404 Threat Not Found, languages id and en" width="90%" />
+</div>
 
 <br/>
 <br/>
 
 <!-- Quote -->
 <div align="right">
-
   <a href="https://github.com/LuminousVar">
-          <img src="https://avatars.githubusercontent.com/u/116353512?v=4" width="50" height="50" alt="Avatar" style="border-radius: 50%;">
-        </a>
-
-  <table style="width: 420px; border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-    <tr>
-      <td valign="top" style="border: none;">
-        <strong>LuminousVar</strong>
-        <p style="margin-top: 5px; margin-bottom: 10px;">
-          <i>"I'm not as skilled or GG as other people, but I am always level up every day."</i>
-        </p>
-        <small style="color: #808080;">10:04 PM · 16 Agu 2025</small>
-      </td>
-    </tr>
-  </table>
-
+    <img src="quote.svg" width="520" alt="LuminousVar: I'm not the most skilled one out there, but I level up every single day." />
+  </a>
 </div>
 
 <br/>
@@ -107,20 +49,6 @@ if __name__ == '__main__':
 </div>
 
 <br/>
-<hr style="border: none; border-top: 1px solid #3a3a3a; margin: 12px 0 18px 0;"/>
-
-<!-- Section C: Featured Repo -->
-<div align="center">
-  <h3>
-    <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/VG9wIFJlcG9zaXRvcmllcw/crotah-free-version-italic.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=353D4B&tb=1&s=50" width="200" alt="Top Repositories"/>
-  </h3>
-</div>
-
-<!-- Section D: Extras -->
-<div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=LuminousVar&theme=transparent&locale=en&border_radius=15.4" alt="Profile summary" />
-</div>
+<hr/>
 
 <br/>
-
-</div>
