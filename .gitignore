@@ -1,0 +1,5 @@
+# Third-party fonts, fetched on demand by tools/svg/fetch_fonts.sh
+tools/svg/fonts/
+
+__pycache__/
+*.pyc
