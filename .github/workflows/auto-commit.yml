@@ -28,9 +28,11 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # Configure git identity using the default GitHub Actions bot
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Scoped to this checkout only, not the runner's global config.
+          # The email must be one linked to the account, otherwise GitHub
+          # credits the commit to whoever owns it (the bot) instead.
+          git config user.name "LuminousVar"
+          git config user.email "116353512+LuminousVar@users.noreply.github.com"
 
           # Stage the updated file
           git add last_update.txt

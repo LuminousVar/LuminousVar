@@ -24,3 +24,9 @@ jobs:
         with:
           commit_message: "${{ env.COMMIT_MESSAGE }}"
           file_pattern: logs/daily.md
+          # commit_author is what lands in --author, and it defaults to
+          # github.actor -- which is github-actions[bot] here, since Autorun
+          # dispatches this workflow with GITHUB_TOKEN. Pin it explicitly.
+          commit_author: LuminousVar <116353512+LuminousVar@users.noreply.github.com>
+          commit_user_name: LuminousVar
+          commit_user_email: 116353512+LuminousVar@users.noreply.github.com
